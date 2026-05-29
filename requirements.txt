@@ -1,0 +1,8 @@
+crewai==0.28.8
+crewai-tools==0.1.6
+openai
+tavily-python
+langchain
+python-dotenv
+nest-asyncio
+rich==13.7.1
